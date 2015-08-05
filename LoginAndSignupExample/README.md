@@ -1,4 +1,4 @@
-LoginAndSignupTutorial
+Login And Signup Tutorial
 ======================
 
 Login and Signup Android tutorial using Parse API and Otto.
