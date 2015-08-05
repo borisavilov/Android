@@ -1,4 +1,4 @@
-Video Streaming App
+Media & Video App
 ==============================
 
-video streaming, admob integration, push notification
+Application provides a video recorder that uploads footage directly to google drive, keeping your footage safe from damage!
