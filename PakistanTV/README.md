@@ -1,4 +1,10 @@
-Video Streaming App
+LIVE TV Video Streaming App
 ==============================
-
-video streaming, admob integration, push notification
+Features include:
+* Live TV
+* Full screen display
+* RTSP Live Streaming
+* HTTP/HLS Live Streaming
+* Video Streaming
+* Admob Integration
+* Push Notification
