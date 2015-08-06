@@ -1,8 +1,7 @@
 Travel App
 ==============================
-
 Features include:
 
-Sliding Menu
-SMS Broadcast
-Facebook, Twitter Sharing
+* Sliding Menu
+* SMS Broadcast
+* Facebook, Twitter Sharing
