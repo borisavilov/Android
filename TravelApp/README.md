@@ -1,6 +1,6 @@
 Travel App
 ==============================
-Features include:
+- Features include
 
 * Sliding Menu
 * SMS Broadcast
